@@ -1,0 +1,16 @@
+ai-hedge-fund/
+│
+├── app.py
+├── data.py
+├── features.py
+├── models.py
+├── ensemble.py
+├── regime.py
+├── portfolio.py
+├── optimizer.py
+├── risk.py
+├── backtester.py
+├── metrics.py
+├── execution.py
+├── requirements.txt
+└── README.md
